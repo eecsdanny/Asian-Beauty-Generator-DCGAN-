@@ -5,5 +5,5 @@ Asian Beauty Generator using DCGAN and ABD dataset
 https://github.com/eecsdanny/Asian-Beauty-Dataset
 
 ## Training Process
-https://imgur.com/a/j1s8vmL
+!(image)[https://imgur.com/a/j1s8vmL]
 ## Result
